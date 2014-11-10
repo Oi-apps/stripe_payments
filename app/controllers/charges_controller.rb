@@ -25,3 +25,5 @@ class ChargesController < ApplicationController
 	     redirect_to charges_path
 	end
 end
+
+ 
